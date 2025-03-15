@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/20148f5b-3360-47d7-bcf5-95c922695a16)## 基于Springboot就业信息管理系统(源代码+LW+PPT+数据库)
+## 基于Springboot就业信息管理系统(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,6 +51,7 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
+![图片](https://github.com/user-attachments/assets/20148f5b-3360-47d7-bcf5-95c922695a16)
 ![图片](https://github.com/user-attachments/assets/53f5b417-a36f-4845-9b05-0c7dad50a4dd)
 ![图片](https://github.com/user-attachments/assets/38365851-f459-4834-a979-0114826640ec)
 ![图片](https://github.com/user-attachments/assets/277e4e23-e5c2-4005-b77b-15f2f3c6d730)
